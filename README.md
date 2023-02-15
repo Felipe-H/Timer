@@ -7,3 +7,7 @@ The CSS file is used to style the timer application, including the font, color, 
 The JavaScript file contains the logic for the timer application, including starting, pausing, and resetting the timer.
 
 Overall, creating this timer application was a useful exercise in using JavaScript, HTML, and CSS together to create a simple, but functional application.
+
+
+![image](https://user-images.githubusercontent.com/54641432/219086335-79fb3f3f-1d71-4873-b3e8-c14c39ffdfb1.png)
+
